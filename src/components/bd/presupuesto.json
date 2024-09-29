@@ -1,8 +1,1 @@
-{"gastosFijos":[{
-  "concepto":"Renta","monto":22000,"recurrencia":"Mensual","diasPago":15},{
-  "concepto":"Electricidad","monto":1500,"recurrencia":"Mensual","diasPago":10},{
-  "concepto":"Agua","monto":800,"recurrencia":"Mensual","diasPago":5},{
-  "concepto":"Internet","monto":700,"recurrencia":"Mensual","diasPago":12},{
-  "concepto":"Gas","monto":600,"recurrencia":"Mensual","diasPago":20}]}
-  
-  
+{"gastosFijos":[{"concepto":"Renta","monto":22000,"recurrencia":"Mensual","diasPago":15},{"concepto":"Electricidad","monto":1500,"recurrencia":"Mensual","diasPago":10},{"concepto":"Agua","monto":800,"recurrencia":"Mensual","diasPago":5},{"concepto":"Internet","monto":700,"recurrencia":"Mensual","diasPago":12},{"concepto":"Gas","monto":600,"recurrencia":"Mensual","diasPago":20}]}
